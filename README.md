@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently building airbnb clone mostly focusing on backend (node js, express js)<br>I’m looking to collaborate on open source projects centered around the MERN stack.<br>I’m looking for help with understanding best practices for project structure, deployment, and versioning.<br>I'm currently learning React js and Node js<br>
+I’m looking to collaborate on open source projects centered around the MERN stack.<br>I’m looking for help with understanding best practices for project structure, deployment, and versioning.<br>I'm currently learning React js and Node js<br>
 
 
 ## 🌐 Socials:
