@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m looking to collaborate on open source projects centered around the MERN stack.<br>I’m looking for help with understanding best practices for project structure, deployment, and versioning.<br>I'm currently learning React js and Node js<br>
+I’m looking to collaborate on open source projects centered around the MERN stack.<br>I’m building a real time chat application with MERN, RabbitMQ & Microservices | Socket.IO, Redis, AWS Deployment.<br>I'm currently learning AWS<br>
 
 
 ## 🌐 Socials:
