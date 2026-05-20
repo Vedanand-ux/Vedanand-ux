@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m looking to collaborate on open source projects centered around the MERN stack.<br>I'm currently building a Job Portal with Microservices | Next.js, Node.js, Kafka, PostgreSQL & TypeScript Tutorial<br>I'm currently learning AWS<br>
+I’m looking to collaborate on open source projects centered around the MERN stack.<br>I'm currently building a Job Portal with Microservices | Next.js, Node.js, Kafka, PostgreSQL & TypeScript<br>I'm currently learning AWS<br>
 
 
 ## 🌐 Socials:
